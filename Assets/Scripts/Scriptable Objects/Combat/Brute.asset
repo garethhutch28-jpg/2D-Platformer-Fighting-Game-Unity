@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4ebbc6e57552d46be25609835cd5d8, type: 3}
+  m_Name: Brute
+  m_EditorClassIdentifier: 
+  attackCooldown: 0.5
+  maxHealth: 100
+  lightAttackRange: 0.5
+  lightAttackSpeed: 1
+  nLightAttackDamage: 12
+  sLightAttackDamage: 12
+  dLightAttackDamage: 12
+  airAttackRange: 0.5
+  nAirAttackDamage: 12
+  sAirAttackDamage: 12
+  dAirAttackDamage: 12
+  heavyCooldown: 1.5
+  nHeavyAttRange: 1
+  nHeavyAttackDamage: 25
+  sHeavyAttackDamage: 25

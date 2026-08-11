@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed4ebbc6e57552d46be25609835cd5d8, type: 3}
+  m_Name: AllRounder
+  m_EditorClassIdentifier: 
+  attackCooldown: 0.5
+  maxHealth: 100
+  lightAttackRange: 0.5
+  lightAttackSpeed: 1
+  nLightAttackDamage: 10
+  sLightAttackDamage: 10
+  dLightAttackDamage: 10
+  airAttackRange: 0.5
+  nAirAttackDamage: 10
+  sAirAttackDamage: 10
+  dAirAttackDamage: 10
+  heavyCooldown: 1.5
+  nHeavyAttRange: 1
+  nHeavyAttackDamage: 20
+  sHeavyAttackDamage: 20
